@@ -1,7 +1,7 @@
 # wizeline-task
 task with 10 test cases, execution report
 
-#intall
+# install
 Run `npm install`
 
 ## Running end-to-end tests
