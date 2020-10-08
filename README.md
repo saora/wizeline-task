@@ -1,6 +1,9 @@
 # wizeline-task
 task with 10 test cases, execution report
 
+#intall
+Run `npm install`
+
 ## Running end-to-end tests
 
 Run `npm test` to execute the end-to-end tests with execution report (task-wzln/cypress/reports/mochareports/report.html)
