@@ -30,6 +30,7 @@ describe('Wizeline Automation Challenge', () => {
     it("2. Login with an invalid user", () => {
         login.loginUser(data[1].name, data[1].password)
         login.errorMsg().should('contain', 'Epic sadface:')
+        
     })
 
     it("3. Logout from product’s page", () => {
